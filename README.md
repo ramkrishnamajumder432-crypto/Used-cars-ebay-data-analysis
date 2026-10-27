@@ -54,4 +54,4 @@ The notebook loads data using Latin-1 encoding and removes rows with missing val
 - Add a `requirements.txt` file for reproducible setup.
 
 ## Author
-## Ramkrishna Majumder
+- Ramkrishna Majumder
